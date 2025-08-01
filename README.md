@@ -48,7 +48,7 @@ FEPS accepts **fasta-formatted protein sequence files**. The recommended format 
 - ✅ Sequences **of the same class/group** should be combined into one file
 - ✅ The **filename** will be used to label the group
 
-📦 [Download example dataset](https://github.com/your-username/your-repo-name/raw/main/example_dataset.zip)
+📦 [Download example dataset](https://hdismail.com/media/tutorial.zip)
 
 > 💡 *Replace `your-username/your-repo-name` with the actual GitHub repo path.*
 
