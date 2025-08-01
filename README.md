@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bioinformatics of Autoimmune Diseases
 This repository provides the source code, scripts, and usage instructions that serve as supplementary materials for the book **_Bioinformatics of Autoimmune Diseases_**. It is designed to support reproducibility and hands-on learning by offering practical examples, data analysis pipelines, and tools discussed throughout the chapters.
 
@@ -44,3 +45,7 @@ If you use this repository or any of the materials in your work, please cite the
 - 🌐 [Personal Website](https://hamiddi.github.io/)  
 - 📚 [Google Scholar Profile](https://scholar.google.com/citations?user=spzSkQgAAAAJ&hl=en)  
 - 🏛️ [Routledge Author Page](https://www.routledge.com/authors/i23690-hamid-ismail)
+=======
+# FEPS
+FEPS (Feature Extraction from Protein Sequences) is a web-based bioinformatics tool for computing 2765 sequence-derived protein features across 7 feature groups. It supports machine learning and deep learning applications such as protein function prediction, classification, and localization.
+>>>>>>> 295a8f0e3f86337b2dfb37b2c4c56bd84b22b481
